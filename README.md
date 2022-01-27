@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🇷🇺 I live in Moscow, Russia.<br>
-💻 I'm a lead developer at Domclick (Sber).<br>
+💻 I'm a tech lead at Domclick (Sber).<br>
 🤖 Most of the time I'm writing on Python and JS (Angular). Sometimes Go.<br>
 ✍️ Sometimes I write tech articles on my [blog in habr.com](https://habr.com/ru/users/olegborzov/posts/)
 
